@@ -34,7 +34,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/frontend-bootcamp-website.git`
+1. Clone the repository: `git clone https://github.com/yuliia-anisimova/bootstrap-tutorial.git`
 2. Run npm install
 3. Run npm start
 4. Open browser to http://localhost:1234
