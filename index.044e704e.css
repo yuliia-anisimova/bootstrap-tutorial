@@ -13201,12 +13201,12 @@ textarea.form-control-lg {
 .map {
   height: 100%;
   width: 100%;
+  border-radius: 10px;
 }
 
 .map__content {
   height: 100%;
   width: 100%;
-  border-radius: 10px;
 }
 
 body:before {
