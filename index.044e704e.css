@@ -13198,21 +13198,21 @@ textarea.form-control-lg {
   }
 }
 
-body:before {
-  content: "";
-  height: 60px;
-  display: block;
+.map {
+  height: 100%;
+  width: 100%;
 }
 
-.map {
+.map__content {
   height: 100%;
   width: 100%;
   border-radius: 10px;
 }
 
-.map-container {
-  height: 100%;
-  width: 100%;
+body:before {
+  content: "";
+  height: 60px;
+  display: block;
 }
 
 /*# sourceMappingURL=index.044e704e.css.map */

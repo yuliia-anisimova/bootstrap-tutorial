@@ -144,13 +144,7 @@
   }
 })({"1SICI":[function(require,module,exports) {
 // Import all of Bootstrap's JS
-var _bootstrap = require("bootstrap"); // Import only the Bootstrap components we need
- // import { Popover } from 'bootstrap';
- // Create an example popover
- // document.querySelectorAll('[data-bs-toggle="popover"]')
- //   .forEach(popover => {
- //     new Popover(popover)
- //   })
+var _bootstrap = require("bootstrap");
 
 },{"bootstrap":"h36JB"}],"h36JB":[function(require,module,exports) {
 /*!
