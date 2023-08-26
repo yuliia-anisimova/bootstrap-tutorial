@@ -13204,4 +13204,15 @@ body:before {
   display: block;
 }
 
+.map {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+}
+
 /*# sourceMappingURL=index.044e704e.css.map */
