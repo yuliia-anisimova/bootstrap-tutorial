@@ -11,6 +11,17 @@ body::before {
   content: '';
   height: 60px;
 }
+
+.map {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+}
 // Option 2
 //
 // Place variable overrides first, then import just the styles you need. Note that some stylesheets are required no matter what.
